@@ -1,0 +1,11 @@
+.envbox
+# mypy 
+.mypy_cache/ 
+# Django #
+*.log
+*.pot
+*.pyc
+
+db.sqlite3
+media
+__pycache__
